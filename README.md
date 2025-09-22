@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🛜 currently working on a master's degree project <br>👨🏼‍🎓 studying computer science at FURB (Fundação Universidade de Blumenau)<br>👨🏼‍💻 working as a fullstack developer since 2022</p>
+<p align="left">🛜 currently working as a C# .NET developer <br>👨🏼‍🎓 studying computer science at FURB (Fundação Universidade de Blumenau)<br>👨🏼‍💻 working as a fullstack developer since 2022</p>
 
 ###
 
