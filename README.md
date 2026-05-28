@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🛜 currently working as a PHP developer <br>👨🏼‍🎓 studying computer science at FURB (Fundação Universidade de Blumenau)<br>👨🏼‍💻 working as a fullstack developer since 2022</p>
+<p align="left">🛜 currently working as a PHP developer <br>👨🏼‍🎓 studying computer science at FURB (Fundação Universidade Regional de Blumenau)<br>👨🏼‍💻 working as a fullstack developer since 2022</p>
 
 ###
 
